@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TitleNavigation</string>
+    <string name="default_title">Default Title</string>
+    <string name="frag_number">Frag number: %1$d</string>
+</resources>
